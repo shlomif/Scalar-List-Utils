@@ -24,6 +24,7 @@ t/min.t
 t/minstr.t
 t/multicall-refcount.t
 t/openhan.t
+t/pair-rt92501-segfault.t
 t/pair.t
 t/product.t
 t/proto.t
